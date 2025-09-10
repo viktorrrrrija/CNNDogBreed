@@ -2,3 +2,4 @@ https://www.tensorflow.org/tutorials/images/classification
 https://poloclub.github.io/cnn-explainer/
 https://github.com/ankit201/dog-breed-classifier/blob/master/dog_app.ipynb
 https://medium.com/@ankitsingh540/dog-breed-classification-using-a-pre-trained-cnn-model-32d0d8b9cc26
+https://www.kaggle.com/code/wesleyacheng/dog-breeds-multiclass-image-classification-w-vit

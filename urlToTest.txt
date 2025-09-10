@@ -1,0 +1,16 @@
+Predlog urla koje je mogu'e testirati u aplikaicji, slike koje je moguće uploadovati se nalaze na putanji data/Upload 
+
+maltese:
+https://i.pinimg.com/1200x/c8/6c/35/c86c35f0f2db921e6b6e952aa4d4e7c6.jpg
+
+pug:
+https://i.guim.co.uk/img/media/504ea0b829df61cbc2ac689e07fbe5ff76cd4afe/2_391_2011_1207/master/2011.jpg?width=1200&quality=85&auto=format&fit=max&s=796761e4c2b8674a813c2dc702d93042
+
+husky:
+https://i.pinimg.com/736x/d7/ee/fc/d7eefcf2c4eaec2299e95fed5edfd383.jpg
+
+labrador:
+https://images.onlinepets.com/uploads/2023/06/Labrador-1.png?auto=format&width=570&height=315&dpr=1.25
+
+golden_retriever:
+https://i.pinimg.com/736x/0a/7d/e8/0a7de8d6ca2f8fd319318823cce046b6.jpg
